@@ -925,16 +925,6 @@ class Formula_1View extends Ui.WatchFace {
  	 	drawDistance(dc);
 		}
 		
-      
-
-
-      // Draw the do-not-disturb icon -------------------------------------------------------------------
-     //   if (null != dndIcon && Sys.getDeviceSettings().doNotDisturb) {
-     //       dc.drawBitmap( width * 0.75, height / 2 - 15, dndIcon);
-      //  }
-  
-  
-  
   
   // Draw hands ------------------------------------------------------------------         
      drawHands(dc);
