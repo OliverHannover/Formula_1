@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="39" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="40" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="41" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="45" pc="268435508" symbol="onLayout"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="46" pc="268435512" symbol="onLayout"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="47" pc="268435555" symbol="onLayout"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="53" pc="268435599" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="55" pc="268435603" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="56" pc="268435616" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="57" pc="268435629" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="58" pc="268435629" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="60" pc="268435629" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="63" pc="268435682" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="65" pc="268435732" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="66" pc="268435748" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="67" pc="268435764" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="70" pc="268435771" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="75" pc="268436155" symbol="drawHashMarks5Minutes"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="81" pc="268436196" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="83" pc="268436200" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="84" pc="268436213" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="85" pc="268436226" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="86" pc="268436226" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="89" pc="268436226" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="90" pc="268436279" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="93" pc="268436329" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="94" pc="268436345" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="95" pc="268436361" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="98" pc="268436368" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="103" pc="268436752" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="107" pc="268436792" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="109" pc="268436845" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="111" pc="268436895" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="112" pc="268436911" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="113" pc="268436927" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="116" pc="268436934" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="121" pc="268437318" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="126" pc="268437358" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="127" pc="268437411" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="128" pc="268437427" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="129" pc="268437443" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="131" pc="268437450" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="134" pc="268437500" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="139" pc="268437884" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="144" pc="268437924" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="145" pc="268437977" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="148" pc="268437994" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="149" pc="268438010" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="151" pc="268438026" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="152" pc="268438033" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="154" pc="268438040" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="155" pc="268438069" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="156" pc="268438098" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="160" pc="268438127" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="162" pc="268438180" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="163" pc="268438190" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="164" pc="268438206" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="165" pc="268438213" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="167" pc="268438220" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="170" pc="268438237" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="172" pc="268438306" symbol="drawHashMarks"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="179" pc="268438437" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="181" pc="268438441" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="183" pc="268438441" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="185" pc="268438441" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="186" pc="268438454" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="189" pc="268438467" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="191" pc="268438489" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="193" pc="268438505" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="194" pc="268438536" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="195" pc="268438567" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="196" pc="268438574" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="198" pc="268438574" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="199" pc="268438597" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="200" pc="268438613" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="202" pc="268438629" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="206" pc="268438629" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="207" pc="268438640" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="210" pc="268438650" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="211" pc="268438661" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="214" pc="268438671" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="215" pc="268438682" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="218" pc="268438692" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="219" pc="268438703" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="222" pc="268438713" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="223" pc="268438724" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="226" pc="268438734" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="227" pc="268438745" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="233" pc="268438755" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="235" pc="268438766" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="236" pc="268438828" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="237" pc="268438896" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="238" pc="268438909" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="241" pc="268438916" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="245" pc="268439188" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="250" pc="268439460" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="251" pc="268439486" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="252" pc="268439500" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="253" pc="268439526" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="257" pc="268439540" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="258" pc="268439575" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="259" pc="268439616" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="260" pc="268439629" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="261" pc="268439636" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="265" pc="268439908" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="270" pc="268440180" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="271" pc="268440206" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="272" pc="268440220" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="273" pc="268440246" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="276" pc="268440260" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="277" pc="268440296" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="282" pc="268440332" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="284" pc="268440343" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="285" pc="268440405" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="286" pc="268440473" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="287" pc="268440486" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="288" pc="268440493" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="289" pc="268440500" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="292" pc="268440507" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="298" pc="268440979" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="299" pc="268441005" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="302" pc="268441019" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="308" pc="268441515" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="309" pc="268441541" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="310" pc="268441558" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="311" pc="268441576" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="318" pc="268441657" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="319" pc="268441692" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="320" pc="268441733" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="321" pc="268441746" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="322" pc="268441753" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="323" pc="268441760" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="326" pc="268441767" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="332" pc="268442239" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="333" pc="268442265" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="336" pc="268442279" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="343" pc="268442775" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="344" pc="268442801" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="345" pc="268442818" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="346" pc="268442836" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="352" pc="268442917" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="361" pc="268443477" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="362" pc="268443513" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="363" pc="268443530" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="364" pc="268443548" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="370" pc="268443629" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="371" pc="268443646" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="372" pc="268443682" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="374" pc="268443715" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="375" pc="268443751" symbol="drawHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="381" pc="268443788" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="383" pc="268443792" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="384" pc="268443792" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="385" pc="268443805" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="388" pc="268443818" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="390" pc="268443828" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="392" pc="268443828" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="393" pc="268443851" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="395" pc="268443867" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="396" pc="268443867" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="397" pc="268443902" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="400" pc="268443943" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="401" pc="268443996" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="404" pc="268444013" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="405" pc="268444029" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="406" pc="268444045" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="407" pc="268444173" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="408" pc="268444265" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="409" pc="268444282" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="413" pc="268444446" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="414" pc="268444463" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="415" pc="268444516" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="416" pc="268444603" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="417" pc="268444656" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="420" pc="268444743" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="421" pc="268444759" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="422" pc="268444775" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="424" pc="268444782" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="428" pc="268445078" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="429" pc="268445131" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="430" pc="268445148" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="432" pc="268445162" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="433" pc="268445215" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="434" pc="268445233" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="436" pc="268445314" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="441" pc="268445376" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="442" pc="268445389" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="443" pc="268445396" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="445" pc="268445412" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="450" pc="268445796" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="451" pc="268445813" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="452" pc="268445831" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="454" pc="268445912" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="458" pc="268445974" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="459" pc="268445991" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="460" pc="268446044" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="462" pc="268446077" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="463" pc="268446130" symbol="drawSecondHands"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="470" pc="268446164" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="472" pc="268446168" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="473" pc="268446181" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="474" pc="268446194" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="477" pc="268446211" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="478" pc="268446248" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="480" pc="268446285" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="482" pc="268446308" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="483" pc="268446308" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="484" pc="268446308" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="486" pc="268446312" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="488" pc="268446371" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="490" pc="268446418" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="492" pc="268446435" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="493" pc="268446435" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="495" pc="268446458" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="498" pc="268446477" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="501" pc="268446487" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="505" pc="268446531" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="507" pc="268446562" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="508" pc="268446572" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="510" pc="268446582" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="513" pc="268446582" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="514" pc="268446605" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="515" pc="268446611" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="516" pc="268446622" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="518" pc="268446638" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="519" pc="268446649" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="521" pc="268446673" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="522" pc="268446680" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="525" pc="268446704" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="530" pc="268446720" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="531" pc="268446731" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="533" pc="268446778" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="535" pc="268446822" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="536" pc="268446833" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="538" pc="268446889" symbol="drawDigitalTime"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="545" pc="268446943" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="547" pc="268446947" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="548" pc="268446960" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="550" pc="268446973" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="551" pc="268447026" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="553" pc="268447049" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="555" pc="268447101" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="556" pc="268447167" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="557" pc="268447223" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="559" pc="268447285" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="560" pc="268447338" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="562" pc="268447355" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="563" pc="268447362" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="564" pc="268447369" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="565" pc="268447376" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="567" pc="268447386" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="569" pc="268447401" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="570" pc="268447411" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="571" pc="268447421" symbol="drawBattery"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="580" pc="268447489" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="582" pc="268447493" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="583" pc="268447506" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="585" pc="268447519" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="586" pc="268447526" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="588" pc="268447533" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="589" pc="268447556" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="591" pc="268447579" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="593" pc="268447617" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="594" pc="268447670" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="595" pc="268447730" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="598" pc="268447790" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="599" pc="268447807" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="601" pc="268447860" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="605" pc="268447873" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="607" pc="268447883" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="608" pc="268447894" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="613" pc="268447904" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="614" pc="268447911" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="615" pc="268447918" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="617" pc="268447925" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="618" pc="268447940" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="619" pc="268447950" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="620" pc="268447960" symbol="drawSteps"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="629" pc="268448022" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="631" pc="268448026" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="632" pc="268448039" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="634" pc="268448052" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="635" pc="268448068" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="637" pc="268448084" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="638" pc="268448137" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="641" pc="268448158" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="642" pc="268448211" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="643" pc="268448228" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="644" pc="268448235" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="645" pc="268448242" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="646" pc="268448260" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="647" pc="268448270" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="648" pc="268448280" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="650" pc="268448323" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="651" pc="268448376" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="654" pc="268448412" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="657" pc="268448465" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="658" pc="268448472" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="660" pc="268448479" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="663" pc="268448496" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="665" pc="268448565" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="669" pc="268448695" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="670" pc="268448718" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="671" pc="268448734" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="672" pc="268448750" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="674" pc="268448812" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="675" pc="268448825" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="676" pc="268448832" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="677" pc="268448885" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="678" pc="268448902" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="682" pc="268449006" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="683" pc="268449059" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="685" pc="268449076" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="686" pc="268449089" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="687" pc="268449096" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="691" pc="268449103" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="694" pc="268449351" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="696" pc="268449365" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="697" pc="268449418" symbol="draw24hElement"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="701" pc="268449435" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="702" pc="268449439" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="703" pc="268449452" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="705" pc="268449465" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="707" pc="268449518" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="709" pc="268449518" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="710" pc="268449522" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="711" pc="268449529" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="713" pc="268449529" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="714" pc="268449546" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="715" pc="268449553" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="716" pc="268449563" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="717" pc="268449570" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="723" pc="268449580" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="724" pc="268449616" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="726" pc="268449616" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="727" pc="268449621" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="729" pc="268449646" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="731" pc="268449693" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="732" pc="268449698" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="734" pc="268449708" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="736" pc="268449715" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="738" pc="268449777" symbol="drawAltitude"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="744" pc="268449844" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="746" pc="268449848" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="748" pc="268449901" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="749" pc="268449914" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="751" pc="268449927" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="753" pc="268449934" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="754" pc="268449938" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="755" pc="268449945" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="756" pc="268449945" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="757" pc="268449981" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="759" pc="268449988" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="760" pc="268450005" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="762" pc="268450012" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="763" pc="268450017" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="764" pc="268450024" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="766" pc="268450043" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="767" pc="268450050" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="771" pc="268450072" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="772" pc="268450079" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="776" pc="268450089" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="777" pc="268450094" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="779" pc="268450119" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="783" pc="268450171" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="784" pc="268450182" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="786" pc="268450237" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="787" pc="268450248" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="789" pc="268450303" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="790" pc="268450314" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="794" pc="268450369" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="796" pc="268450431" symbol="drawDistance"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="801" pc="268450498" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="802" pc="268450502" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="803" pc="268450515" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="806" pc="268450528" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="807" pc="268450545" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="808" pc="268450598" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="809" pc="268450655" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="810" pc="268450711" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="811" pc="268450779" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="814" pc="268450841" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="816" pc="268450877" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="817" pc="268450916" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="818" pc="268450961" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="820" pc="268451016" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="828" pc="268451389" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="830" pc="268451425" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="831" pc="268451478" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="832" pc="268451523" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="833" pc="268451562" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="834" pc="268451579" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="835" pc="268451615" symbol="drawPromasterLandDesign"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="842" pc="268451652" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="843" pc="268451656" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="844" pc="268451669" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="845" pc="268451682" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="847" pc="268451695" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="848" pc="268451720" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="851" pc="268451745" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="852" pc="268451752" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="855" pc="268451769" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="856" pc="268451822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="861" pc="268451834" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="862" pc="268451870" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="863" pc="268451923" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="866" pc="268451965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="867" pc="268452018" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="872" pc="268452426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="873" pc="268452443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="874" pc="268452496" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="877" pc="268452547" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="878" pc="268452564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="879" pc="268452617" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="882" pc="268452659" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="885" pc="268452673" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="886" pc="268452687" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="889" pc="268452701" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="892" pc="268452715" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="895" pc="268452729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="900" pc="268452743" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="902" pc="268452796" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="905" pc="268452827" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="906" pc="268452887" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="910" pc="268452943" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="912" pc="268452957" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="914" pc="268453025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="917" pc="268453097" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="919" pc="268453128" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="920" pc="268453139" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="924" pc="268453156" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="928" pc="268453167" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="943" pc="268453184" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="945" pc="268453198" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="946" pc="268453209" symbol="onUpdate"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="953" pc="268453227" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="954" pc="268453231" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="955" pc="268453241" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="958" pc="268453258" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1View.mc" lineNum="959" pc="268453262" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1App.mc" lineNum="6" pc="268453273" symbol="initialize"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1App.mc" lineNum="7" pc="268453277" symbol="initialize"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1App.mc" lineNum="11" pc="268453296" symbol="onStart"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1App.mc" lineNum="15" pc="268453301" symbol="onStop"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1App.mc" lineNum="19" pc="268453306" symbol="getInitialView"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1App.mc" lineNum="20" pc="268453310" symbol="getInitialView"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1App.mc" lineNum="24" pc="268453348" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\baer\\Documents\\GitHub\\Formula_1\\source\\Formula_1App.mc" lineNum="25" pc="268453352" symbol="onSettingsChanged"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="82" symbol="DigitalForegroundColorTitle"/>
+<entry field="true" id="22" symbol="dualtimeDST"/>
+<entry field="true" id="60" symbol="HandsColorTitle"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="48" symbol="TZVal000"/>
+<entry id="28" method="true" symbol="drawBattery"/>
+<entry field="true" id="63" symbol="TZVal330"/>
+<entry field="true" id="74" symbol="ColorBlue"/>
+<entry field="true" id="87" symbol="HandsPilot"/>
+<entry field="true" id="72" symbol="TZValm100"/>
+<entry field="true" id="83" symbol="TZVal300"/>
+<entry field="true" id="76" symbol="DualTimeTZ"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry field="true" id="14" symbol="clockTime"/>
+<entry field="true" id="36" symbol="DoNotDisturbIcon"/>
+<entry field="true" id="105" symbol="TZVal630"/>
+<entry field="true" id="91" symbol="HandsFormTitle"/>
+<entry field="true" id="101" symbol="TZVal1100"/>
+<entry id="25" method="true" symbol="drawHands"/>
+<entry field="true" id="65" symbol="ColorOrange"/>
+<entry field="true" id="77" symbol="TZValm400"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="98" symbol="ColorGreen"/>
+<entry field="true" id="46" symbol="TZVal600"/>
+<entry field="true" id="39" symbol="id_font_digital"/>
+<entry field="true" id="89" symbol="ColorYellow"/>
+<entry field="true" id="54" symbol="ColorWhite"/>
+<entry field="true" id="62" symbol="TZVal930"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="53" symbol="TZVal1400"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="45" symbol="TZValm700"/>
+<entry field="true" id="80" symbol="TZVal900"/>
+<entry field="true" id="99" symbol="TZValm1100"/>
+<entry field="true" id="107" symbol="ColorBlack"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="92" symbol="ColorDarkGreen"/>
+<entry field="true" id="20" symbol="dualtime"/>
+<entry field="true" id="18" symbol="timeStr"/>
+<entry field="true" id="97" symbol="ColorPink"/>
+<entry field="true" id="50" symbol="ColorRed"/>
+<entry field="true" id="93" symbol="DigitalBackgroundColorTitle"/>
+<entry field="true" id="38" symbol="id_font_digitalbig"/>
+<entry field="true" id="21" symbol="dualtimeTZ"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="90" symbol="AppName"/>
+<entry field="true" id="69" symbol="DSTVal100"/>
+<entry field="true" id="49" symbol="TZVal200"/>
+<entry field="true" id="110" symbol="TZVal1030"/>
+<entry field="true" id="85" symbol="TZVal545"/>
+<entry field="true" id="100" symbol="TZValm330"/>
+<entry field="true" id="58" symbol="DispDistance"/>
+<entry field="true" id="64" symbol="TZVal530"/>
+<entry field="true" id="57" symbol="TZVal1000"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="13" symbol="dndIcon"/>
+<entry field="true" id="37" symbol="LauncherIcon"/>
+<entry field="true" id="41" symbol="TZValm300"/>
+<entry field="true" id="86" symbol="TZVal500"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="19" symbol="Use24hFormat"/>
+<entry field="true" id="67" symbol="HashmarksColorTitle"/>
+<entry field="true" id="43" symbol="TZVal845"/>
+<entry field="true" id="109" symbol="DispInfoTitle"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="106" symbol="TZVal830"/>
+<entry id="9" object="true" symbol="Formula_1App"/>
+<entry field="true" id="96" symbol="TZVal1300"/>
+<entry field="true" id="81" symbol="TZValm600"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="40" symbol="TZVal800"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="66" symbol="DispAltitude"/>
+<entry id="27" method="true" symbol="drawDigitalTime"/>
+<entry field="true" id="55" symbol="TZValm1000"/>
+<entry field="true" id="61" symbol="TZValm930"/>
+<entry field="true" id="103" symbol="ColorDarkGray"/>
+<entry id="29" method="true" symbol="drawSteps"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry id="30" method="true" symbol="draw24hElement"/>
+<entry field="true" id="59" symbol="AppVersionTitle"/>
+<entry field="true" id="111" symbol="DSTValCurrent"/>
+<entry field="true" id="47" symbol="TZValm900"/>
+<entry id="33" method="true" symbol="drawPromasterLandDesign"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="32" method="true" symbol="drawDistance"/>
+<entry field="true" id="102" symbol="ColorLightGray"/>
+<entry field="true" id="113" symbol="HandsDriver"/>
+<entry id="24" method="true" symbol="drawHashMarks"/>
+<entry field="true" id="12" symbol="isAwake"/>
+<entry field="true" id="78" symbol="BackgroundColorTitle"/>
+<entry field="true" id="17" symbol="ampmStr"/>
+<entry id="23" method="true" symbol="drawHashMarks5Minutes"/>
+<entry field="true" id="94" symbol="DSTVal030"/>
+<entry field="true" id="112" symbol="DSTVal000"/>
+<entry field="true" id="95" symbol="DualTimeDST"/>
+<entry id="31" method="true" symbol="drawAltitude"/>
+<entry field="true" id="88" symbol="TZVal100"/>
+<entry id="35" module="true" symbol="Layouts"/>
+<entry field="true" id="104" symbol="ColorDarkBlue"/>
+<entry field="true" id="108" symbol="TZVal430"/>
+<entry field="true" id="68" symbol="DSTValm100"/>
+<entry field="true" id="16" symbol="center_y"/>
+<entry field="true" id="15" symbol="center_x"/>
+<entry field="true" id="73" symbol="TZValm200"/>
+<entry field="true" id="51" symbol="TZVal1245"/>
+<entry field="true" id="44" symbol="TZVal400"/>
+<entry field="true" id="11" symbol="font2"/>
+<entry field="true" id="10" symbol="font1"/>
+<entry field="true" id="52" symbol="TZVal1200"/>
+<entry field="true" id="42" symbol="TZValm500"/>
+<entry field="true" id="75" symbol="TZVal700"/>
+<entry id="34" module="true" symbol="Menus"/>
+<entry id="8" object="true" symbol="Formula_1View"/>
+<entry id="26" method="true" symbol="drawSecondHands"/>
+<entry field="true" id="79" symbol="ColorDarkRed"/>
+<entry field="true" id="84" symbol="TZValm800"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="56" symbol="TZValm1200"/>
+<entry field="true" id="70" symbol="AkzentColorTitle"/>
+<entry field="true" id="71" symbol="ColorPurple"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436195" name="alpha" stackId="10" startPc="268435732"/>
+<entry endPc="268436195" name="thicknes" stackId="9" startPc="268435603"/>
+<entry endPc="268436195" name="height" stackId="3" startPc="268435603"/>
+<entry endPc="268436195" name="r2" stackId="7" startPc="268435603"/>
+<entry endPc="268436195" name="r1" stackId="6" startPc="268435603"/>
+<entry endPc="268436195" name="marks" stackId="8" startPc="268435603"/>
+<entry endPc="268436195" name="width" stackId="2" startPc="268435603"/>
+<entry endPc="268436195" name="alpha" stackId="5" startPc="268435603"/>
+<entry endPc="268436195" name="n" stackId="4" startPc="268435603"/>
+<entry endPc="268436792" name="alpha" stackId="10" startPc="268436329"/>
+<entry endPc="268437358" name="alpha" stackId="11" startPc="268436895"/>
+<entry endPc="268437924" name="alpha" stackId="12" startPc="268437500"/>
+<entry endPc="268438436" name="alpha" stackId="17" startPc="268438306"/>
+<entry endPc="268438436" name="thicknes" stackId="9" startPc="268436200"/>
+<entry endPc="268438436" name="width" stackId="2" startPc="268436200"/>
+<entry endPc="268438436" name="r2" stackId="7" startPc="268436200"/>
+<entry endPc="268438436" name="n" stackId="4" startPc="268436200"/>
+<entry endPc="268438436" name="r1" stackId="6" startPc="268436200"/>
+<entry endPc="268438436" name="alpha" stackId="5" startPc="268436200"/>
+<entry endPc="268438436" name="outerRad" stackId="16" startPc="268436200"/>
+<entry endPc="268438436" name="marks" stackId="8" startPc="268436200"/>
+<entry endPc="268438436" name="cent_y" stackId="14" startPc="268436200"/>
+<entry endPc="268438436" name="innerRad" stackId="15" startPc="268436200"/>
+<entry endPc="268438436" name="cent_x" stackId="13" startPc="268436200"/>
+<entry endPc="268438436" name="height" stackId="3" startPc="268436200"/>
+<entry endPc="268443787" name="hour_radius" stackId="3" startPc="268438441"/>
+<entry endPc="268443787" name="alpha" stackId="12" startPc="268438441"/>
+<entry endPc="268443787" name="hand1" stackId="20" startPc="268438441"/>
+<entry endPc="268443787" name="hand" stackId="19" startPc="268438441"/>
+<entry endPc="268443787" name="HandsForm" stackId="6" startPc="268438441"/>
+<entry endPc="268443787" name="height" stackId="5" startPc="268438441"/>
+<entry endPc="268443787" name="minute" stackId="11" startPc="268438441"/>
+<entry endPc="268443787" name="alpha3" stackId="14" startPc="268438441"/>
+<entry endPc="268443787" name="alpha2" stackId="13" startPc="268438441"/>
+<entry endPc="268443787" name="n" stackId="9" startPc="268438441"/>
+<entry endPc="268443787" name="width" stackId="4" startPc="268438441"/>
+<entry endPc="268443787" name="minute_radius" stackId="2" startPc="268438441"/>
+<entry endPc="268443787" name="r3" stackId="18" startPc="268438441"/>
+<entry endPc="268443787" name="r2" stackId="17" startPc="268438441"/>
+<entry endPc="268443787" name="r1" stackId="16" startPc="268438441"/>
+<entry endPc="268443787" name="hours" stackId="10" startPc="268438441"/>
+<entry endPc="268443787" name="r0" stackId="15" startPc="268438441"/>
+<entry endPc="268443787" name="color2" stackId="8" startPc="268438441"/>
+<entry endPc="268443787" name="color1" stackId="7" startPc="268438441"/>
+<entry endPc="268446163" name="thicknes" stackId="13" startPc="268443792"/>
+<entry endPc="268446163" name="width" stackId="3" startPc="268443792"/>
+<entry endPc="268446163" name="r3" stackId="9" startPc="268443792"/>
+<entry endPc="268446163" name="r2" stackId="8" startPc="268443792"/>
+<entry endPc="268446163" name="n" stackId="5" startPc="268443792"/>
+<entry endPc="268446163" name="r1" stackId="7" startPc="268443792"/>
+<entry endPc="268446163" name="seconds_radius" stackId="2" startPc="268443792"/>
+<entry endPc="268446163" name="alpha" stackId="11" startPc="268443792"/>
+<entry endPc="268446163" name="hand" stackId="10" startPc="268443792"/>
+<entry endPc="268446163" name="seconds" stackId="6" startPc="268443792"/>
+<entry endPc="268446163" name="alpha2" stackId="12" startPc="268443792"/>
+<entry endPc="268446163" name="height" stackId="4" startPc="268443792"/>
+<entry endPc="268446528" name="dtDST" stackId="8" startPc="268446435"/>
+<entry endPc="268446942" name="height" stackId="3" startPc="268446168"/>
+<entry endPc="268446942" name="dtinfo" stackId="9" startPc="268446168"/>
+<entry endPc="268446942" name="dtnow" stackId="7" startPc="268446168"/>
+<entry endPc="268446942" name="dtmin" stackId="6" startPc="268446168"/>
+<entry endPc="268446942" name="now" stackId="4" startPc="268446168"/>
+<entry endPc="268446942" name="use24hclock" stackId="10" startPc="268446168"/>
+<entry endPc="268446942" name="dthour" stackId="5" startPc="268446168"/>
+<entry endPc="268446942" name="width" stackId="2" startPc="268446168"/>
+<entry endPc="268447488" name="loopend" stackId="9" startPc="268446947"/>
+<entry endPc="268447488" name="height" stackId="3" startPc="268446947"/>
+<entry endPc="268447488" name="BatteryStr" stackId="5" startPc="268446947"/>
+<entry endPc="268447488" name="ende" stackId="8" startPc="268446947"/>
+<entry endPc="268447488" name="width" stackId="2" startPc="268446947"/>
+<entry endPc="268447488" name="segment" stackId="6" startPc="268446947"/>
+<entry endPc="268447488" name="Battery" stackId="4" startPc="268446947"/>
+<entry endPc="268447488" name="start" stackId="7" startPc="268446947"/>
+<entry endPc="268448021" name="start" stackId="10" startPc="268447493"/>
+<entry endPc="268448021" name="width" stackId="2" startPc="268447493"/>
+<entry endPc="268448021" name="stepsStr" stackId="6" startPc="268447493"/>
+<entry endPc="268448021" name="loopend" stackId="8" startPc="268447493"/>
+<entry endPc="268448021" name="ende" stackId="11" startPc="268447493"/>
+<entry endPc="268448021" name="stepPercent" stackId="7" startPc="268447493"/>
+<entry endPc="268448021" name="segment" stackId="9" startPc="268447493"/>
+<entry endPc="268448021" name="stepGoal" stackId="5" startPc="268447493"/>
+<entry endPc="268448021" name="actsteps" stackId="4" startPc="268447493"/>
+<entry endPc="268448021" name="height" stackId="3" startPc="268447493"/>
+<entry endPc="268448323" name="segment" stackId="8" startPc="268448260"/>
+<entry endPc="268448695" name="alpha" stackId="11" startPc="268448565"/>
+<entry endPc="268449434" name="start" stackId="6" startPc="268448026"/>
+<entry endPc="268449434" name="width" stackId="2" startPc="268448026"/>
+<entry endPc="268449434" name="r2" stackId="10" startPc="268448026"/>
+<entry endPc="268449434" name="r1" stackId="9" startPc="268448026"/>
+<entry endPc="268449434" name="minute" stackId="13" startPc="268448026"/>
+<entry endPc="268449434" name="alpha" stackId="14" startPc="268448026"/>
+<entry endPc="268449434" name="ende" stackId="7" startPc="268448026"/>
+<entry endPc="268449434" name="marks" stackId="16" startPc="268448026"/>
+<entry endPc="268449434" name="thickness" stackId="15" startPc="268448026"/>
+<entry endPc="268449434" name="hours" stackId="12" startPc="268448026"/>
+<entry endPc="268449434" name="cent_y" stackId="5" startPc="268448026"/>
+<entry endPc="268449434" name="cent_x" stackId="4" startPc="268448026"/>
+<entry endPc="268449434" name="height" stackId="3" startPc="268448026"/>
+<entry endPc="268449843" name="height" stackId="3" startPc="268449439"/>
+<entry endPc="268449843" name="metric" stackId="8" startPc="268449439"/>
+<entry endPc="268449843" name="unknownaltitude" stackId="5" startPc="268449439"/>
+<entry endPc="268449843" name="altitudeStr" stackId="4" startPc="268449439"/>
+<entry endPc="268449843" name="width" stackId="2" startPc="268449439"/>
+<entry endPc="268449843" name="unit" stackId="9" startPc="268449439"/>
+<entry endPc="268449843" name="actaltitude" stackId="6" startPc="268449439"/>
+<entry endPc="268449843" name="actInfo" stackId="7" startPc="268449439"/>
+<entry endPc="268450497" name="height" stackId="3" startPc="268449848"/>
+<entry endPc="268450497" name="metric" stackId="8" startPc="268449848"/>
+<entry endPc="268450497" name="unknownDistance" stackId="5" startPc="268449848"/>
+<entry endPc="268450497" name="actDistance" stackId="6" startPc="268449848"/>
+<entry endPc="268450497" name="width" stackId="2" startPc="268449848"/>
+<entry endPc="268450497" name="unit" stackId="9" startPc="268449848"/>
+<entry endPc="268450497" name="actInfo" stackId="7" startPc="268449848"/>
+<entry endPc="268450497" name="distStr" stackId="4" startPc="268449848"/>
+<entry endPc="268451651" name="height" stackId="3" startPc="268450502"/>
+<entry endPc="268451651" name="width" stackId="2" startPc="268450502"/>
+<entry endPc="268453226" name="DispInfo" stackId="9" startPc="268451656"/>
+<entry endPc="268453226" name="height" stackId="3" startPc="268451656"/>
+<entry endPc="268453226" name="dateStr" stackId="8" startPc="268451656"/>
+<entry endPc="268453226" name="now" stackId="6" startPc="268451656"/>
+<entry endPc="268453226" name="width" stackId="2" startPc="268451656"/>
+<entry endPc="268453226" name="screenWidth" stackId="4" startPc="268451656"/>
+<entry endPc="268453226" name="info" stackId="7" startPc="268451656"/>
+<entry endPc="268453226" name="timeFormat" stackId="5" startPc="268451656"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="Formula_1View">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHashMarks5Minutes" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHashMarks" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHands" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSecondHands" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDigitalTime" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawBattery" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSteps" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw24hElement" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawAltitude" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDistance" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawPromasterLandDesign" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="Formula_1View">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="Formula_1View">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="Formula_1View">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Formula_1App">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="Formula_1App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="Formula_1App">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="Formula_1App">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="Formula_1App">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>

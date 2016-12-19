@@ -1,0 +1,4 @@
+<resources>
+	<font id="id_font_digitalbig" filename="digitalbig.fnt" />
+	<font id="id_font_digital" filename="digital.fnt" />
+</resources>
