@@ -206,7 +206,7 @@ class Formula_1View extends Ui.WatchFace {
 		if (color1 == 0x000000) {
 			color2 = 0x555555;
 			}
-		//!withe + lt_gray
+		//!white + lt_gray
 		if (color1 == 0xFFFFFF) {
 			color2 = 0xAAAAAA;
 			}
