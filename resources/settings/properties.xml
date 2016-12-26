@@ -1,5 +1,5 @@
 <properties>
-	<property id="appVersion" type="string">0.2.5</property>
+	<property id="appVersion" type="string">0.2.0</property>
 	<property id="BackgroundColor" type="number">0x000000</property>
 	<property id="DigitalForegroundColor" type="number">0x000000</property>
 	<property id="HashmarksColor" type="number">0xFFFFFF</property>
