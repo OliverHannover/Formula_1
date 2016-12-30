@@ -702,23 +702,27 @@ class Formula_1View extends Ui.WatchFace {
     		dc.setColor((App.getApp().getProperty("DigitalForegroundColor")), Gfx.COLOR_TRANSPARENT);
 			
 			var altitudeStr;
-			//var highaltide = false;			
+					
 			var unknownaltitude = true;
 			var actaltitude = 0;
 			var actInfo;
+			var metric = Sys.getDeviceSettings().elevationUnits == Sys.UNIT_METRIC;
+			var unit;
 			
 			actInfo = Act.getActivityInfo();
 			if (actInfo != null) {
-				actaltitude = actInfo.altitude;
-				if (actaltitude != null) {
+					if (metric) {				
+					unit = "m";
+					actaltitude = actInfo.altitude;
+					} else {
+					unit = "ft";
+					actaltitude = actInfo.altitude  * 3.28084;
+					}
+					if (actaltitude != null) {
 					unknownaltitude = false;
-					//if (actaltitude > 4000) {
-					//	highaltide = true;
-					//}
-				} 				
+					} 				
 			}
-			var metric = Sys.getDeviceSettings().elevationUnits == Sys.UNIT_METRIC;
-			var unit;
+			
 							
 			if (unknownaltitude) {
 				altitudeStr = Lang.format("Alt ?");
