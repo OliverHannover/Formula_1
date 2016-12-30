@@ -707,15 +707,15 @@ class Formula_1View extends Ui.WatchFace {
 			var actaltitude = 0;
 			var actInfo;
 			var metric = Sys.getDeviceSettings().elevationUnits == Sys.UNIT_METRIC;
-			var unit;
+			var unit = "m";
 			
 			actInfo = Act.getActivityInfo();
 			if (actInfo != null) {
 					if (metric) {				
-					unit = "m";
+					unit = "Alt m";
 					actaltitude = actInfo.altitude;
 					} else {
-					unit = "ft";
+					unit = "Alt ft";
 					actaltitude = actInfo.altitude  * 3.28084;
 					}
 					if (actaltitude != null) {
@@ -729,11 +729,7 @@ class Formula_1View extends Ui.WatchFace {
 			} else {
 				altitudeStr = Lang.format("$1$", [actaltitude.toLong()]);
 			}
-			if (metric) {
-				unit = "Alt m";
-			} else {
-				unit = "Alt ft";
-			}			
+			
        		dc.drawText(width / 10 * 9 , height / 10 * 5.1, font2, altitudeStr, Gfx.TEXT_JUSTIFY_RIGHT);
        		//draw unit-String
 			dc.drawText(width / 10 * 8.8, height / 10 * 6  , Gfx.FONT_XTINY, unit, Gfx.TEXT_JUSTIFY_RIGHT);
